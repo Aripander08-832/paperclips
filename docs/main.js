@@ -2263,7 +2263,7 @@ function updatePower(){
         if (powMod<1){powMod = 1;}
         
         if (momentum == 1) {
-            powMod = powMod + .0001;
+            powMod = powMod + .00025;
             }
         
         
